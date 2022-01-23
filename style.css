@@ -1,0 +1,30 @@
+body
+{
+ background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.copyrightfooter {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: ivory;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    border-color: yellow;
+    margin-top: 70px;
+}
